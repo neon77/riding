@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="ROUTEEDITOR1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>Created/Modified by using GPS Route Editor.</desc>
+    <link href="http://www.gpsnote.net">
+      <text>GpsNote.NET</text>
+    </link>
+  </metadata>
+  <wpt lat="33.49022485" lon="126.4798718">
+    <name>월랑재 게스트 하우스</name>
+    <desc />
+  </wpt>
+  <wpt lat="33.50678087" lon="126.4940714">
+    <name>제주 공항</name>
+    <desc />
+  </wpt>
+  <wpt lat="33.49359736" lon="126.4853307">
+    <name>1 km</name>
+    <desc />
+  </wpt>
+  <wpt lat="33.49643346" lon="126.4943303">
+    <name>2 km</name>
+    <desc />
+  </wpt>
+  <wpt lat="33.50392431" lon="126.4965712">
+    <name>3 km</name>
+    <desc />
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="33.49024275" lon="126.4798074">
+        <ele>62.1</ele>
+      </trkpt>
+      <trkpt lat="33.49094513" lon="126.4806175">
+        <ele>61.5</ele>
+      </trkpt>
+      <trkpt lat="33.49216199" lon="126.4792764">
+        <ele>57.1</ele>
+      </trkpt>
+      <trkpt lat="33.49346831" lon="126.4792656">
+        <ele>51.9</ele>
+      </trkpt>
+      <trkpt lat="33.49374567" lon="126.4923012">
+        <ele>69</ele>
+      </trkpt>
+      <trkpt lat="33.49641192" lon="126.4942967">
+        <ele>67.5</ele>
+      </trkpt>
+      <trkpt lat="33.4967698" lon="126.4948546">
+        <ele>67.2</ele>
+      </trkpt>
+      <trkpt lat="33.49746766" lon="126.4970541">
+        <ele>70</ele>
+      </trkpt>
+      <trkpt lat="33.49855917" lon="126.4970111">
+        <ele>61.9</ele>
+      </trkpt>
+      <trkpt lat="33.49907808" lon="126.4970755">
+        <ele>57.7</ele>
+      </trkpt>
+      <trkpt lat="33.50390023" lon="126.496582">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="33.5052511" lon="126.4963674">
+        <ele>33.7</ele>
+      </trkpt>
+      <trkpt lat="33.50625306" lon="126.4953052">
+        <ele>27.4</ele>
+      </trkpt>
+      <trkpt lat="33.50663773" lon="126.4948546">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="33.50671377" lon="126.4940822">
+        <ele>26.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
