@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="ROUTEEDITOR1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>Created/Modified by using GPS Route Editor.</desc>
+    <link href="http://www.gpsnote.net">
+      <text>GpsNote.NET</text>
+    </link>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="37.5289574316949" lon="126.965668201447">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="37.5288638386212" lon="126.965748667717">
+        <ele>17.3</ele>
+      </trkpt>
+      <trkpt lat="37.5283405660913" lon="126.965265870094">
+        <ele>18.4</ele>
+      </trkpt>
+      <trkpt lat="37.5281193440803" lon="126.965110301971">
+        <ele>18.7</ele>
+      </trkpt>
+      <trkpt lat="37.5277151867892" lon="126.964976191521">
+        <ele>19</ele>
+      </trkpt>
+      <trkpt lat="37.5268473047853" lon="126.964241266251">
+        <ele>17.9</ele>
+      </trkpt>
+      <trkpt lat="37.5263623075028" lon="126.965040564537">
+        <ele>17.3</ele>
+      </trkpt>
+      <trkpt lat="37.5236266936057" lon="126.962535381317">
+        <ele>19.9</ele>
+      </trkpt>
+      <trkpt lat="37.5232140028636" lon="126.962175965309">
+        <ele>19.2</ele>
+      </trkpt>
+      <trkpt lat="37.522129083323" lon="126.961430311203">
+        <ele>15.5</ele>
+      </trkpt>
+      <trkpt lat="37.5182487713857" lon="126.95915043354">
+        <ele>15.7</ele>
+      </trkpt>
+      <trkpt lat="37.5138321181863" lon="126.955980062485">
+        <ele>18.2</ele>
+      </trkpt>
+      <trkpt lat="37.514274646282" lon="126.955212950706">
+        <ele>11.3</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
